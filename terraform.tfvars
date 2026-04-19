@@ -13,4 +13,4 @@ desired_size = 3
 min_size     = 1
 max_size     = 3
 
-admin_principal_arn = "arn:aws:iam::788279898314:role/aws-reserved/sso.amazonaws.com/AWSReservedSSO_AdministratorAccess_17c426ac93b20db7"
+admin_principal_arn = "arn:aws:iam::yourarn"
